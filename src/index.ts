@@ -3,7 +3,7 @@ import {Command, flags} from '@oclif/command'
 const {Engine} = require('json-rules-engine')
 
 class RBit extends Command {
-  static description = 'describe the command here'
+  static description = 'CLI for JSON rule evaluation'
 
   static flags = {
     version: flags.version({char: 'v'}),

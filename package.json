@@ -1,11 +1,11 @@
 {
   "name": "rbit",
-  "version": "0.0.0",
-  "author": "Kurt Ruppel",
+  "version": "0.0.1",
+  "author": "Kurt Ruppel <me@kurtruppel.com>",
   "bin": {
     "rbit": "./bin/run"
   },
-  "bugs": "https://github.com/rbit/rbit/issues",
+  "bugs": "https://github.com/kruppel/rbit/issues",
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
@@ -33,7 +33,7 @@
     "/bin",
     "/lib"
   ],
-  "homepage": "https://github.com/rbit/rbit",
+  "homepage": "https://github.com/kruppel/rbit",
   "keywords": [
     "oclif"
   ],
